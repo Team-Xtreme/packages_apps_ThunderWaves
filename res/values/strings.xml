@@ -64,5 +64,9 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
-</resources>
 
+    <!-- MTP Dirty Hack -->
+    <string name="enable_mtp_dirtyhack_title">MTP Toggle</string>
+    <string name="enable_mtp_dirtyhack_summary">Enable MTP instead of Charging after connecting to PC</string>
+
+</resources>
