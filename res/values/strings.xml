@@ -46,8 +46,9 @@
     <string name="notifications_panel_category">Notifications</string>
     <string name="system_category">System</string>
     <string name="lockscreen_category">Lockscreen</string>
-    <string name="navigation_category">Navigation</string>
+    <string name="navigation_category">Buttons</string>
     <string name="build_tweaks_summary_title">Feel The Thunder</string>
+    <string name="buttons_title">HW Keys</string>
 
     <!-- Frags -->
     <!-- General Tweaks -->

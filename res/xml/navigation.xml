@@ -21,4 +21,10 @@
     android:layout="@layout/tab"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+         <Preference
+            android:key="buttons"
+            android:fragment="com.android.settings.custom.ButtonSettings"
+            android:icon="@drawable/ic_button_settings"
+            android:title="@string/buttons_title" />
+
 </PreferenceScreen>
